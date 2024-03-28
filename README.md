@@ -12,6 +12,12 @@ Since this project uses submodules, use the following command to clone the repos
 git clone --recursive https://github.com/Abbe-and-Gabbe/trailblazer_mono
 ```
 
+## Update submodules (Ask Abbe if needed)
+
+```sh
+git submodule update --init --recursive
+```
+
 # Docker
 
 This project uses docker compose to dockerize all the smaller projects together.
