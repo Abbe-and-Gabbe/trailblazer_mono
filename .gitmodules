@@ -1,6 +1,6 @@
-[submodule "backend"]
-	path = backend
+[submodule "trailblazer_backend"]
+	path = trailblazer_backend
 	url = https://github.com/Abbe-and-Gabbe/trailblazer_backend
-[submodule "frontend"]
-	path = frontend
+[submodule "trailblazer_frontend"]
+	path = trailblazer_frontend
 	url = https://github.com/Abbe-and-Gabbe/trailblazer
