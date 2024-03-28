@@ -30,3 +30,7 @@ This project uses docker compose to dockerize all the smaller projects together.
 # Trailblazer
 
 For documentation about the different modules of Trailblazer, se the documentation for each project.
+
+- [Frontend](https://github.com/Abbe-and-Gabbe/trailblazer/wiki)
+- [Backend](https://github.com/Abbe-and-Gabbe/trailblazer_backend/wiki)
+- [~Trailblazer Data Cruncer~]()
