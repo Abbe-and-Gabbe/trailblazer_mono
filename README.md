@@ -27,6 +27,13 @@ This project uses docker compose to dockerize all the smaller projects together.
 - Database (postgres)
 - DBMS (pgadmin)
 
+# Recommended workflow
+
+As mentioned before, __DO NOT__ push anything without permission to the `trailblazer_mono` repo.
+
+It is recommended that you open for example `frontend` and only work from that directory. By doing 
+this, you treat it as a normal repository, and all the commits will be pushed to that repository.
+
 # Trailblazer
 
 For documentation about the different modules of Trailblazer, se the documentation for each project.
