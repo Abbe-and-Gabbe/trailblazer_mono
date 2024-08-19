@@ -19,6 +19,8 @@ services:
       - ./frontend/public:/frontend/public
   backend:
     build: ./backend/
+    dockerfile: Dockerfile
+
     ports:
       - 8080:8080
     volumes:
